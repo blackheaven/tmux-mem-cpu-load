@@ -20,6 +20,7 @@
 #include <fstream>
 #include <sstream>
 #include <string>
+#include <cstdint>
 #include <cstdlib> // EXIT_SUCCESS, atoi()
 #include <getopt.h> // getopt_long
 
